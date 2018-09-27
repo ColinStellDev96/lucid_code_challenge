@@ -1,0 +1,12 @@
+Instructions:
+
+Replicate the attached design (homePage.png) in any framework, or CMS you feel comfortable with.
+
+You may use any iconography, or icon font you wish, however you must use all included images in the 'Assets' folder.
+
+the goal is to have a fully functioning webpage, reflecting the attached design.
+
+email the files back to us, either via a link to a git repo, or a zip directory with all the necessary files contained within.
+
+if you wish to stand this page up on an internet facing server of your choice, (for example if you choose a theme builder inside wordpress) than we will also need credentials to view the backend of that site.
+
