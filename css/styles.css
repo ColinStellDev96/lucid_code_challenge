@@ -83,7 +83,7 @@ header {
 /* HERO STYLINGS */
 
 #hero-section {
-    background-image: linear-gradient(to right, rgba(250, 248, 248) 15%, transparent), url("/Users/colin_stell/dev_workspace/personal_dev/lucid-code/Assets/hero_image.jpeg");
+    background-image: linear-gradient(to right, rgba(250, 248, 248) 15%, transparent), url("../Assets/hero_image.jpeg");
     height: 700px;
     background-position: center;
     background-repeat: no-repeat;
@@ -146,7 +146,7 @@ header {
 
 /* MAP SECTION */
 #map-section {
-    background-image: url(/Users/colin_stell/dev_workspace/personal_dev/lucid-code/Assets/Map.png);
+    background-image: url("../Assets/Map.png");
     height: 610px;
     background-position: center;
     background-repeat: no-repeat;
